@@ -3,7 +3,7 @@
 **Track every job application on a kanban board and let AI do the repetitive work.**
 Analyze job descriptions, score your match, write tailored cover letters and prepare for interviews.
 
-[Live demo](https://your-app.vercel.app)
+[Live demo](https://jobtrackai-rho.vercel.app/)
 
 ---
 
